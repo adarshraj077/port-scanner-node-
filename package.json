@@ -1,0 +1,26 @@
+{
+  "name": "simple-scanner",
+  "version": "1.0.0",
+  "description": "A fast TCP port scanner with network scan support",
+  "type": "module",
+  "bin": {
+    "portscanner": "./scanner.js"
+  },
+  "files": [
+    "scanner.js",
+    "commonports.js"  
+  ],
+  "keywords": [
+    "port-scanner",
+    "network",
+    "tcp",
+    "security",
+    "cli",
+    "nmap"
+  ],
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
