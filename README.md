@@ -26,7 +26,7 @@ A fast, lightweight TCP port scanner written in Node.js with OS detection, netwo
 ## Installation
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/adarshraj077/port-scanner-node-.git
 cd port-scanner
 npm install
 ```
